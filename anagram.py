@@ -16,4 +16,9 @@ string1='synergistic'
 string2='serendipity'
 result=anagram(string1,string2)
 
+'''
+output:
 
+['c', 'e', 'g', 'i', 'i', 'n', 'r', 's', 's', 't', 'y'] ['d', 'e', 'e', 'i', 'i', 'n', 'p', 'r', 's', 't', 'y']
+not an anagram
+'''
